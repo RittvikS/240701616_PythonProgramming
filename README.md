@@ -1,2 +1,2 @@
 # 240701616_PythonProgramming
-Python programs
+Each Week has MCQ Skillbuilder challengeyourself practice
